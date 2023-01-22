@@ -1,5 +1,5 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import React, { useState } from "react";
+// import reactLogo from "./assets/react.svg";
 import "./App.css";
 // import { PowerBIEmbed } from "powerbi-client-react";
 // import { models } from "powerbi-client";
